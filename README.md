@@ -10,7 +10,7 @@
     <td width="40%" valign="top">
       
       ### 📊 仓库状态
-      <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=dark" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=uguisu2202&show_icons=true&theme=dark" width="100%" />
       
     </td>
   </tr>
